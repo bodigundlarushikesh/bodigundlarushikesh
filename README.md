@@ -14,7 +14,7 @@ and always looking for ways to improve my skills and contribute positively to an
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/rushi-935a1a330](https://www.linkedin.com/in/rushi-935a1a330/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rushi-935a1a330/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bodigundalrushikesh1004@gmail.com)
 
